@@ -1,5 +1,5 @@
 # Awesome RSC
-RSC collectibles - Articles, Videos, Docs on [React's Server Components](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components) and other things inspired by [RSC](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md)(RFC). 
+RSC collectibles - Articles, Videos, Docs on [React's Server Components](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components) and other things inspired by [RSC](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md). 
 
 ## Articles
 - [React Server Components](https://nextjs.org/docs/advanced-features/react-18/server-components) (Next.js Docs)
