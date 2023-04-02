@@ -10,7 +10,12 @@ RSC collectibles - Articles, Videos, Docs on [React's Server Components](https:/
 ## Videos
 - [React Server Components with Dan Abramov, Joe Savona, and Kent C. Dodds](https://www.youtube.com/watch?v=h7tur48JSaw)
 
+## RSC in the wild
+- https://github.com/code-hike/bright
+
 ## Demos
 - https://github.com/reactjs/server-components-demo
 - https://github.com/vercel/next-react-server-components
+- https://github.com/vercel/server-components-notes-demo
+- https://github.com/wooorm/server-components-mdx-demo
 
