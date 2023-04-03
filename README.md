@@ -30,4 +30,5 @@ RSC collectibles - Articles, Videos, Docs on [React's Server Components](https:/
 - https://github.com/vercel/server-components-notes-demo
 - https://github.com/wooorm/server-components-mdx-demo
 - https://github.com/bholmesdev/simple-rsc
+- https://github.com/cyco130/vite-rsc
 
